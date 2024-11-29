@@ -238,7 +238,7 @@ Helanka.define(config).build();
 <details>
 <summary>GitHub Trophies</summary>
 <br />
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helankas26&theme=onedark&column=3&margin-w=15&margin-h=15" alt="helankas26" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helankas26&theme=onedark&column=5&margin-w=15&margin-h=15" alt="helankas26" /></a></p>
 </details>
 <br />
 
@@ -246,9 +246,9 @@ Helanka.define(config).build();
 <summary>Top Repositories</summary>
 <br />
 <div width="100%" align="center">
-    <a href="https://github.com/helankas26/library-api-DSMP"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=helankas26&repo=library-api-DSMP&title_color=3382ed&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en" /></a>
+    <a href="https://github.com/helankas26/library-api-DSMP"><img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=helankas26&repo=library-api-DSMP&title_color=3382ed&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/helankas26/library-DSMP"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=helankas26&repo=library-DSMP&title_color=3382ed&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en" /></a>
+    <a href="https://github.com/helankas26/library-DSMP"><img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=helankas26&repo=library-DSMP&title_color=3382ed&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en" /></a>
 </div>
 </details>
 <br />
@@ -257,9 +257,9 @@ Helanka.define(config).build();
 <summary>Projects I am currently working on</summary>
 <br />
 <div width="100%" align="center">
-    <a href="https://github.com/helankas26/library-api-DSMP"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=helankas26&repo=library-api-DSMP" /></a>
+    <a href="https://github.com/helankas26/library-api-DSMP"><img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=helankas26&repo=library-api-DSMP" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/helankas26/library-DSMP"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=helankas26&repo=library-DSMP" /></a>
+    <a href="https://github.com/helankas26/library-DSMP"><img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=helankas26&repo=library-DSMP" /></a>
 </div>
 </details>
 
